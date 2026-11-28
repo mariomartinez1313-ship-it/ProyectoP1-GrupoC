@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="banner-github.png" width="100%" alt="Mario Fernando Martínez - Tesorería Corporativa y Analítica Financiera">
+  <img src="banner-github.png.png" width="100%" alt="Mario Fernando Martínez - Tesorería Corporativa y Analítica Financiera">
 </div>
 
 <br>
@@ -15,6 +16,29 @@
   <br>
   Estudiante de Ciencia de Datos e Inteligencia Artificial
 </p>
+
+---
+
+<div align="center">
+
+  <h3>Áreas de experiencia</h3>
+
+  <p>
+    Gestión de Liquidez · Flujo de Caja · Capital de Trabajo
+    <br>
+    Riesgo Financiero · Inversiones · Financiamiento
+  </p>
+
+  <h3>Tecnología y Analítica</h3>
+
+  <p>
+    Power BI · DAX · Excel Avanzado
+    <br>
+    Ciencia de Datos · Inteligencia Artificial
+  </p>
+
+</div>
+
 
 <!--
 **MarioFernando-MF/MarioFernando-MF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
